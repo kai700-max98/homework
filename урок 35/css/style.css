@@ -1,0 +1,25 @@
+.family {
+font-family: "open-sans", sans-serif;
+font-style: italic;
+font-size: 20px;
+line-height: 30px;
+font-weight: 300;
+}
+.style{
+text-decoration: line-through;
+
+}
+.style2{
+    text-align: center;
+    text-transform: uppercase;
+}
+.style3{
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+    margin-top: 10px;
+    color: rgb(237, 128, 236);
+}
+.style4{
+    letter-spacing: 5px;
+    text-decoration-thickness: 20px;
+}
