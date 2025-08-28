@@ -1,0 +1,51 @@
+body{
+    background: #181e34;
+    font-family: "Montserrat","Arial", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.a{
+    color: #fff;
+}
+.container{
+    max-width: 930px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 100%;
+
+}
+.header{
+    padding: 30px 0 36px;
+
+}
+
+.header-inner{
+    display: flex;
+    align-items: center;
+}
+.header-nav{
+    margin-left: auto;
+
+}
+
+.header-list{
+    display: flex;
+}
+
+.header-item{
+    margin-right: 30px;
+}
+
+.header-button{
+    color: #2766AE;
+    background: #fff;
+    border-radius: 100px;
+    padding: 14px 30px;
+    font-weight: 500px;
+}
+
+.hero{
+    background: url("../img/hero-bg.jpg") no-repeat;
+    height: 600px;
+}
